@@ -1,0 +1,91 @@
+    1  history
+    2  ls
+    3  cd desktop
+    4  cd /comandos
+    5  cd /comando
+    6  cd comandos
+    7  ls
+    8  mkdir turmas1819
+    9  ls
+   10  mkdir turma18 turma19
+   11  ls
+   12  mkdir 'turma18 turma19'
+   13  ls
+   14  cd turma18\ turma19/
+   15  ls
+   16  clear
+   17  cat versionamento de codigo > teste.txt
+   18  cat 'versionamento de codigo' >> teste.txt
+   19  cat 'versionamentocodigo' >> teste.txt
+   20  cat 'versionamentocodigo' > teste.txt
+   21  cat 'versionamentocodigo'>teste.txt
+   22  cat 'versionamentocodigo' > teste.txt
+   23  cat 'versionamentocodigo' >> teste.txt
+   24  cat versionamentocodigo > teste.txt
+   25  cat versionamento de codigo >> teste.txt
+   26  echo versionamento de codigo >> teste.txt
+   27  ls
+   28  echo 'versionamento de codigo' > teste.txt
+   29  echo 'versionamento de codigo' > hola.txt
+   30  ls
+   31  echo '# versionamento de codigo' >> hola.txt
+   32  echo 'versionamento' > hola.txt
+   33  git
+   34  git init
+   35  echo 'versionamento'> hola.txt
+   36  echo 'versionamentol'> hola.txt
+   37  echo 'versionamentol'>hola.txt
+   38  echo 'versionamentol1'>hola.txt
+   39  echo 'versionamentol123'>hola.txt
+   40  echo ´versionamentol1´>hola.txt
+   41  echo ´versionamentolll1´>hola.txt
+   42  echo ´versionamentolll12´>>hola.txt
+   43  echo versiona12>>hola.txt
+   44  echo 'vamos conseguir' > turma19.txt
+   45  echo vamos conseguir > turma18.txt
+   46  echo vamos conseguir2 >> turma18.txt
+   47  git init
+   48  git status
+   49  cd desktop
+   50  cd comandos
+   51  touch readme.md
+   52  ls
+   53  touch readme3.md
+   54  ls
+   55  Jeremias@jerepc MINGW64 ~/desktop/comandos
+   56  $ touch readme3.md
+   57  Jeremias@jerepc MINGW64 ~/desktop/comandos
+   58  $ touch readme3.md
+   59  Jeremias@jerepc MINGW64 ~/desktop/comandos
+   60  $ touch readme3.md
+   61  echo "" > readme.md
+   62  echo "" > readme6.md
+   63  ls
+   64  cat > readme.md
+   65  cat > readme8.md
+   66  ls
+   67  git config --global user.name 'Jonathan Aguiar'
+   68  git config --global user.email 'jonathanaguiar@gmail.com'
+   69  git init
+   70  git status
+   71  echo '#aprendiendo usar o git' > readme.md
+   72  git status
+   73  git add readme.md
+   74  git status
+   75  git commit -m 'Commit inicial'
+   76  git status
+   77  echo '##Aula 1' >> readme.md
+   78  git status
+   79  echo 'Jonathan Aguiar' > participantes.txt
+   80  git status
+   81  git add.
+   82  git add. .
+   83  git add .
+   84  git status
+   85  git add .
+   86  git status
+   87  git add.
+   88  git status
+   89  git add participantes.txt
+   90  git status
+   91  history > aula3.txt
